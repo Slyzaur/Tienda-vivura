@@ -2,6 +2,11 @@
 
 Presentación del proyecto final para el curso de Lógica de Programación del técnico del PIO
 
+Presentado por:
+
+-Sly Viviana Zambrano Uribe
+-Johan Andrés Urán Ramírez
+
 Presentado al profesor Alexander Hernández
 
 El proyecto trata sobre una tiendita de artículos para mascotas. Se usó HTML, CSS y JS y usando LocalStorage
